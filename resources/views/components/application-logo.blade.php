@@ -1,0 +1,1 @@
+<img src="{{ Vite::asset('resources/images/logo.jpeg') }}" class="object-contain h-[64px]">
